@@ -98,8 +98,8 @@ Browse all in /screenshots:
 ---
 
 ### 🧪 Testing Results
-✅ PCs in VLAN 10 and 20 successfully received IPs
-✅ Inter-VLAN communication worked
+- ✅ PCs in VLAN 10 and 20 successfully received IPs
+- ✅ Inter-VLAN communication worked
 ✅ FTP and HTTP services accessible
 ✅ ACLs restricted unauthorized access as expected
 ✅ DNS resolutions successful
@@ -148,8 +148,8 @@ Browse all in /screenshots:
 
 ## 🔗 Further Reading
 
-- [Part 1 on Medium](#) — VLANs, Routing, STP
-- [Part 2 on Medium](#) — DHCP, DNS, ACLs, Services
+- [Part 1 on Medium](https://medium.com/@donaldlikke/building-a-campus-inter-vlan-network-in-cisco-packet-tracer-part-1-49d2898e909f) — VLANs, Routing, STP
+- [Part 2 on Medium](https://medium.com/@donaldlikke/building-a-campus-inter-vlan-network-in-cisco-packet-tracer-part-2-da830af20ebc) — DHCP, DNS, ACLs, Services
 
 ---
 
